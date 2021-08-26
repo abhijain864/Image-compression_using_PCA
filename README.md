@@ -1,4 +1,5 @@
-# July-2020-Image compression using Principal-Component-Analysis on Olivetti face dataset
+# July-2020-
+# Image compression using Principal-Component-Analysis on Olivetti face dataset
 • Implemented the linear dimensionality reduction technique PCA on Olivetti face dataset\
 • Constructed a small set of basis images (Eigenimages) by finding the eigenvectors of the covariance matrix of the image dataset\
 • Reduced dimensionality by projecting images onto a lower dimensional subspace spanned by the eigenimages\
